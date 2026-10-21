@@ -1,8 +1,8 @@
 # make-flipbook
 
-Build an animated 3D book for a Ghost HTML card. The book stands on its spine, turns to show the cover, opens, and flips through the first pages.
+Build an animated 3D book to insert in your website as HTML. The book stands on its spine, turns to show the cover, opens, and flips through the first pages.
 
-The script reads two PDFs, a cover wrap and an interior, and writes one self-contained HTML file. Paste the file into a Ghost HTML card. The file needs no external images, scripts, or fonts.
+The script reads two PDFs: a cover wrap and an interior. It then writes one self-contained HTML file. Paste the file into your website's HTML view or card. The file needs no external images, scripts, or fonts.
 
 ## Requirements
 
