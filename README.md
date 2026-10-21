@@ -43,6 +43,10 @@ The script writes `<title>-flip.html` to the current directory and opens it in y
 - The script handles one book at a time.
 - Each output file grows with the page count, typically about 1 MB.
 
+## Apple Devices
+
+Make sure that you disable Appearance --> Reduce Motion on your Apple devices. If you don't, then the static image of the book cover appears. 
+
 ## Copyright
 
 The output embeds your cover and pages. Build flipbooks only from books that you hold the rights to publish.
